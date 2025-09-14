@@ -1,2 +1,2 @@
 # Agente-de-IA
-Imersão Agentes de IA - Alura
+Aprendizado de criação ded agentes de IA usando GEMINI
