@@ -1,2 +1,2 @@
 # Agente-de-IA
-Aprendizado de criação ded agentes de IA usando GEMINI
+Aprendizado de criação de Agentes de IA usando GEMINI
